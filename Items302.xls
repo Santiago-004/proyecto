@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>NetSuite</Author>
+  <LastAuthor>NetSuite</LastAuthor>
+  <Company>NetSuite</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>170</WindowHeight>
+  <WindowWidth>4110</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="7" ss:Bold="1"/>
+   <Interior ss:Color="#D0D0D0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="7" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Interior ss:Color="#4EA72E" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Items">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="68" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="40" ss:DefaultRowHeight="10">
+   <Column ss:AutoFitWidth="0" ss:Width="170"/>
+   <Column ss:AutoFitWidth="0" ss:Width="88.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="88" ss:Span="1"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="103"/>
+   <Column ss:AutoFitWidth="0" ss:Width="88" ss:Span="2"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Supplier</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Supplier PN</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tape</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Width</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Length</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Color</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1410RPX-60mm-25m</Data></Cell>
+    <Cell><Data ss:Type="String">1410RPX DST, Reinforced PE Film Carrier 60mm x 25m; Adhesive: Acrylic; Liner: Sil Paper; Thickness: 0.27mm; 10 rolls/carton</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">87455</Data></Cell>
+    <Cell><Data ss:Type="String">1410RPX</Data></Cell>
+    <Cell><Data ss:Type="String">60mm</Data></Cell>
+    <Cell><Data ss:Type="String">25m</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1665SPS-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 1665SPs, Acrylic Mass, 4-ply laminate of aluminum and thermoplastic film: Thickness:1.5mm; Color: Silver</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">1665SPS-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1720SPS-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 1720SPS, Acrylic Mass, PP Film: Thickness:1.1mm; Color: Black</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">1720SPS-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4010-7212-18.54-116.97-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4010-7212 SST, PE w/PET film; Adhesive: UVA; Thickness: 1.0mm; Color: Black; Lock Gasket; outer lattice removed; 18.54mm x 116.97mm; 2,500 pcs/roll; 5,000 pcs/box</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">4010-7212</Data></Cell>
+    <Cell><Data ss:Type="Number">18.54</Data></Cell>
+    <Cell><Data ss:Type="Number">116.97</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4010-7212-18.54-116.97-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4010-7212 SST, PE w/PET film; Adhesive: UVA; Thickness: 1.0mm; Color: White; Lock Gasket; outer lattice removed; 18.54mm x 116.97mm Dwg. CP-TKB0076 (Rev D) 2,500 pcs/roll; 5,000 pcs/box &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">183110</Data></Cell>
+    <Cell><Data ss:Type="String">4010-7212</Data></Cell>
+    <Cell><Data ss:Type="Number">18.54</Data></Cell>
+    <Cell><Data ss:Type="Number">116.97</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4123SST-PE-14mm-12mm-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4123 SST PE Foam  14MM x 12mm Black; Adhesive: UVA; Thickness:  3.0mm; Liner: poly-film White or sil-paper Honey; Die-cut parts on sheets; 3,120 pcs/box; MOQ 3,120 pcs. &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">212665</Data></Cell>
+    <Cell><Data ss:Type="String">4123SST-PE</Data></Cell>
+    <Cell><Data ss:Type="String">14mm</Data></Cell>
+    <Cell><Data ss:Type="String">12mm</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4208F-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4208F, PE Foam, UVA: Thickness:3.0mm; Color: White</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">4208F-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-12.5-33-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218F DST, PE Foam Carrier 12.5mm x 33M; Adhesive: UVA; Thickness: 1.6 mm  Color: Black; Liner: Poly-film, red; 20 rolls/carton &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">199533</Data></Cell>
+    <Cell><Data ss:Type="String">4218F</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-12.5-33-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218 DST, PE Foam Carrier 12.5mm x 33m; Adhesive: UVA; Thickness: 1.6 mm Color: White; Liner:  Poly-red; 20 rolls/case; MOQ:  200 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">196566</Data></Cell>
+    <Cell><Data ss:Type="String">4218F</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-6.5-33-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218 DST, PE Foam Carrier 6.5mm x 33m; Adhesive: UVA; Thickness: 1.6 mm Color: Black; Liner:  Poly-red; 37 rolls/case; MOQ:  185 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">251889</Data></Cell>
+    <Cell><Data ss:Type="String">4218F</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-9.5-33-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218 DST, PE Foam Carrier 9.5mm x 33m; Adhesive: UVA; Thickness: 1.6 mm Color: Black; Liner:  Poly-red; 25 rolls/case; MOQ:  750 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">197632</Data></Cell>
+    <Cell><Data ss:Type="String">4218F</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-9.5-33-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218 DST, PE Foam Carrier 9.5mm x 33m; Adhesive: UVA; Thickness: 1.6 mm Color: WHITE; Liner:  Poly-red; 25 rolls/case; MOQ:  75 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">222013</Data></Cell>
+    <Cell><Data ss:Type="String">4218F</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-BK-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218F, PE Foam, UVA: Thickness:1.6mm; Color: Black</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">4218F-PECOM</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">BK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4218F-WT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4218F, PE Foam, UVA: Thickness:1.6mm; Color: White</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">4218F-PECOM</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">WT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4221F-12.5-1210-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4221 F PE Foam double-sided, WHITE 12.5mm x 1210m 6&quot; wide spools 3&quot; diameter 2 spools/case  MOQ 10 spools &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">176665</Data></Cell>
+    <Cell><Data ss:Type="String">4221F</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1210</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4221F-19-817-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4221 F PE Foam double-sided, WHITE 19mmx817M 6&quot; wide spools 3&quot; diameter 1 spool/case  MOQ 10 spools &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">176664</Data></Cell>
+    <Cell><Data ss:Type="String">4221F</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">817</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4221F-6.5-2179-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4221 F PE Foam double-sided, WHITE 6.5mm x 2,179m 6&quot; wide spools 3&quot; diameter core, 2 spools/case  MOQ 30 spools &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">165933</Data></Cell>
+    <Cell><Data ss:Type="String">4221F</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2179</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4221F-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4221, PE Foam, UVA: Thickness:0.8mm; Color: White</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">4221F-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4231DST-93.47-.23495-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">4231 DST, PE Foam Carrier 93.47 mm x .23495 M die-cut parts &#13;&#10;Adhesive: MUVA &#13;&#10;Thickness: 1.0 mm (density 67 kg/m³) &#13;&#10;Color: White Liner: Poly, Blue &#13;&#10;160 pcs/box; MOQ 2000 pcs.</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">235693</Data></Cell>
+    <Cell><Data ss:Type="String">4231DST</Data></Cell>
+    <Cell><Data ss:Type="Number">93.47</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23494999999999999</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4231F-12-80-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4231F DST, PE Foam Tape WHITE 12mm x 80mm   &#13;&#10;scrap lattice removed &#13;&#10;MOQ:  5760 parts (576 parts/sheet; 10 sheets per box) &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">229456</Data></Cell>
+    <Cell><Data ss:Type="String">4231F</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4231P-35-66-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4231 DST, PE Foam Carrier 35mm x 66m Adhesive: UV Cross-Linked Acrylic Thickness: 0.8 mm Color: Black Liner: sil-paper, Poly Blue 7 rolls/case MOQ:  28 rolls &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">236853</Data></Cell>
+    <Cell><Data ss:Type="String">4231P</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4290P-11-1000-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4290 PE Foam double-sided,11 mm x 1000m; Color: sil-paper WHITE; 3&quot; core, 6&quot; wide spool;  1 spool/case;  MOQ 1 spool &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">215728</Data></Cell>
+    <Cell><Data ss:Type="String">4290P</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4290P-11-1000-WHT-2</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4290 PE Foam double-sided,11 mm x 1000m; Color: sil-paper WHITE; 3&quot; core, 6&quot; wide spool;   2 spools/case;  MOQ 2 spools &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">215728</Data></Cell>
+    <Cell><Data ss:Type="String">4290P</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">WHT-2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4292P-12.5-33-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4292 P PE Foam  Tape WHITE 12.5mm x 33m ;1.6 Thickness; Adhesive: Synthetic Rubber; Liner: honey yellow; 19 rolls/case  MOQ 1,368 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">209550</Data></Cell>
+    <Cell><Data ss:Type="String">4292P</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4292P-6.5-1100-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4292 P PE Foam  Tape WHITE 6.5mm x 1100m 1.6 Thickness; Adhesive: Synthetic Rubber; Liner: honey yellow; 2 spools/case  MOQ 10 spools &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">193354</Data></Cell>
+    <Cell><Data ss:Type="String">4292P</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1100</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4292P-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 4292P, PE Foam, Synthetic Rubber: Thickness:1.6mm; Color: White</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">4292P-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5171-160-50-GRY</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 5171 SST, PUR Foam, open cell (no scrim) 160mm x 50 mm GRAY &#13;&#10;UVA Adhesive; Thickness 3mm;  Liner: Sil-paper &#13;&#10;400pcs/roll; 2 rolls/box &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">186381</Data></Cell>
+    <Cell><Data ss:Type="Number">5171</Data></Cell>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">GRY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5508RPX-150-150-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">5508 RPX, SST, IRR Butyl Rubber Film Elastic Passthrough Gasket &#13;&#10;150mm x 150mm &#13;&#10;Adhesive: UV Cross-Linked Acrylic &#13;&#10;Thickness: 0.8 mm Color: Black Liner: Sil-paper &#13;&#10;250 pcs/box &#13;&#10;MOQ: 500 pcs. &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">226562</Data></Cell>
+    <Cell><Data ss:Type="String">5508RPX</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5516-19-25-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 5516 SST EPDM Foam Laminated w/PET Film DST (7211) 19MM x 25M Black; Adhesive: UVA; Thickness: 1.8mm; Liner: sil-paper white; 12 rolls per carton; MOQ 24 rolls &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">220981</Data></Cell>
+    <Cell><Data ss:Type="Number">5516</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5516-7211-SST-EPDM-21-44mm-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 5516-7211 SST EPDM Foam Laminated w/PET Film DST 21MM x 44mm Black; Adhesive: UVA; Thickness:  1.8mm; Liner: sil-paper White; Die-cut parts on rolls; 750 pcs/roll; 2 rolls per carton &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">205843</Data></Cell>
+    <Cell><Data ss:Type="String">5516-7211-SST-EPDM</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">44mm</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6032-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 6032, Mod Acrylic: Thickness:0.09mm; Color: N/A</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">6032-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7204-27-165-CLR</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 7204 DST, PET Film  Carrier 27mm x 165m Adhesive: UV Cross-Linked Acrylic Thickness: 0.09 mm Color: Clear Liner/Color: Sil-paper, White 9 rolls/case MOQ: 36 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">172277</Data></Cell>
+    <Cell><Data ss:Type="Number">7204</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell><Data ss:Type="String">CLR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7204-45-229-CLR</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 7204 DST, PET Film  Carrier 45mm x 229m Adhesive: UV Cross-Linked Acrylic Thickness: 0.09 mm Color: Clear Liner/Color: Sil-paper, White 5 rolls/case MOQ: 20 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">176669</Data></Cell>
+    <Cell><Data ss:Type="Number">7204</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">229</Data></Cell>
+    <Cell><Data ss:Type="String">CLR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7204-6.5-2000-CLR</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 7204 DST, PET Film  Carrier 6.5mm x 2000m Adhesive: UVA Thickness: 0.09 mm Color: Clear Liner/Color: Sil-paper, White 1 spool/case MOQ: 12 rolls</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">215726</Data></Cell>
+    <Cell><Data ss:Type="Number">7204</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">CLR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7365SST-12mm-20mm</Data></Cell>
+    <Cell><Data ss:Type="String">7365 SST, UHMW-PE 12mm x 20mm &#13;&#10;Adhesive: Solvent Acrylic &#13;&#10;Thickness: 0.25 mm Color: Natural Translucent &#13;&#10;Liner: PET, clear &#13;&#10;16,000 pcs/carton &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">206254</Data></Cell>
+    <Cell><Data ss:Type="String">7365SST</Data></Cell>
+    <Cell><Data ss:Type="String">12mm</Data></Cell>
+    <Cell><Data ss:Type="String">20mm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7834-4mm-630mm</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 7834 SST, PET Cloth, 4mm x 630mm Die Cut &#13;&#10;Adhesive: Mod-UV Cross-Linked Acrylic &#13;&#10;Thickness: 0.34mm   Color: Black &#13;&#10;Liner: Sil-paper, White &#13;&#10;MOQ: 1,600 pcs. &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">230663</Data></Cell>
+    <Cell><Data ss:Type="Number">7834</Data></Cell>
+    <Cell><Data ss:Type="String">4mm</Data></Cell>
+    <Cell><Data ss:Type="String">630mm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7836-20mm-150mm-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">7836 SST, PET Cloth (834MPX+6032) &#13;&#10;Width: 150mm &#13;&#10;Length: 20mm &#13;&#10;Thickness: 1.6mm &#13;&#10;Color: Black &#13;&#10;Adhesive: Mod-UV Cross-Linked Acrylic &#13;&#10;Liner: PET, Clear extended &#13;&#10;Liner Width: 165mm &#13;&#10;Pcs/Roll: 1500</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">239913</Data></Cell>
+    <Cell><Data ss:Type="Number">7836</Data></Cell>
+    <Cell><Data ss:Type="String">20mm</Data></Cell>
+    <Cell><Data ss:Type="String">150mm</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7836-50mm-150mm-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">7836 SST, PET Cloth (834MPX+6032) &#13;&#10;Width: 150mm &#13;&#10;Length: 50mm &#13;&#10;Thickness: 1.6mm &#13;&#10;Color: Black &#13;&#10;Adhesive: Mod-UV Cross-Linked Acrylic &#13;&#10;Liner: PET, Clear extended &#13;&#10;Liner Width: 165mm &#13;&#10;Pcs/Roll: 600</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">239912</Data></Cell>
+    <Cell><Data ss:Type="Number">7836</Data></Cell>
+    <Cell><Data ss:Type="String">50mm</Data></Cell>
+    <Cell><Data ss:Type="String">150mm</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">834MPX-6032(7818)-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 834MPX-6032(7818), PA Cloth, Mod Acrylic: Thickness:0.44mm; Color: Black</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">834MPX-6032(7818)-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">837X-5mm-25mm ORG</Data></Cell>
+    <Cell><Data ss:Type="String">837X SST, PET cloth ORANGE 5mm x 25mm die cut &#13;&#10;Adhesive: UV Cross-Linked Acrylic &#13;&#10;Thickness: 0.25 mm &#13;&#10;Die-cut parts, On sil-paper sheets &#13;&#10;300pcs/sheet, 400 sheets per box &#13;&#10;3600 pcs/carton</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">234350</Data></Cell>
+    <Cell><Data ss:Type="String">837X</Data></Cell>
+    <Cell><Data ss:Type="String">5mm</Data></Cell>
+    <Cell><Data ss:Type="String">25mm </Data></Cell>
+    <Cell><Data ss:Type="String">ORG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8551-7215-14-60-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 8551-7215 PET Non-Woven 14mm x 60mm, w/tissue; Adhesive: UVA; Thickness: 0.31mm; Liner: sil-paper; Die-cut parts on rolls; 830 pcs/roll; 96 rolls/box; 79,680 pcs. per carton MOQ: 239,040 &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">215221</Data></Cell>
+    <Cell><Data ss:Type="String">8551-7215</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8606X-12-25-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 8606X Glass Cloth UVA Adhesive Tape white 12MM X 25m 228 rolls/case &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">8606X</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8606X-19-25-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 8606X Glass Cloth UVA Adhesive Tape white 19MM X 25m 192 rolls/case &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">206716</Data></Cell>
+    <Cell><Data ss:Type="String">8606X</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8606X-25-25-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 8606X Glass Cloth UVA Adhesive Tape white 25MM X 25m 108 rolls/case &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">8606X</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8608X-19-25-SLV</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 8608X SST, Glass Cloth with Aluminum Laminate 19mm x 25m; 99 rolls/box ; 2,475 meters/box; 8,118 feet/box. &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">229215</Data></Cell>
+    <Cell><Data ss:Type="String">8608X</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">SLV</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8608X-25-32-SLV</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 8608X SST, Glass Cloth with Aluminum Laminate 25mm x 32m; 63 rolls/box ; 2,016 meters/box</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s63"><Data ss:Type="Number">262261</Data></Cell>
+    <Cell><Data ss:Type="String">8608X</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">SLV</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">875X-SST-PET-50-100-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 875X SST PET Fleece WHITE 50MM x 100M; Adhesive: UVA; Thickness: 0.25 mm; 6/rolls case;  MOQ 216 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">237437</Data></Cell>
+    <Cell><Data ss:Type="String">875X-SST-PET</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">875X-SST-PET-50-200-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 875X SST PET Fleece WHITE 50MM x 200M; Adhesive: UVA; Thickness: 0.25 mm; 6/rolls case;  MOQ 180 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">239950</Data></Cell>
+    <Cell><Data ss:Type="String">875X-SST-PET</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">880X-7215-24.1416-.102-BLK</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 880X -7215 SST, PA-Velour Cloth, Width 24.1416mm; Length .102m; UVA; Color: Black die-cut. 2 lane on rolls, center pcs. removed; 1,800 pc./box; MOQ: 5,400 pcs. &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN027</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">213803</Data></Cell>
+    <Cell><Data ss:Type="String">880X-7215</Data></Cell>
+    <Cell><Data ss:Type="Number">24.1416</Data></Cell>
+    <Cell><Data ss:Type="Number">0.10199999999999999</Data></Cell>
+    <Cell><Data ss:Type="String">BLK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">880X-7215-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 880X-7215, PA Velour, Fiber Reinforced Acrylic: Thickness:1.2mm; Color: Black</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">880X-7215-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9005SPT-216-33</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9005 SPT 216mm x 33m DST, Acrylic Mass Tape;  2 rolls/case &#13;&#10;(NOTE:  one roll 216mm wide with one roll 533mm wide) &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9005SPT</Data></Cell>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9005SPT-375-33</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9005 SPT 375mm x 33m DST, Acrylic Mass Tape;  2 rolls/case &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9005SPT</Data></Cell>
+    <Cell><Data ss:Type="Number">375</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9005SPT-533-33</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9005 SPT 533mm x 33m DST, Acrylic Mass Tape;  2 rolls/case &#13;&#10;(NOTE:  one roll 533mm wide with one roll 216mm wide) &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9005SPT</Data></Cell>
+    <Cell><Data ss:Type="Number">533</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9010SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9010SPT, Acrylic Mass: Thickness:1.0mm; Color: Transparent</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9010SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9015SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9015SPT, Acrylic Mass: Thickness:1.5mm; Color: Transparent</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9015SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9030SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9030SPT, Acrylic Mass: Thickness:3.0mm; Color: Transparent</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9030SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">90705-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 90705, Acrylic Mass: Thickness: 0.5mm; Color: Blue</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">90705-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">90710-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 90710, Acrylic Mass: Thickness: 1.0mm; Color: Blue</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">90710-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">90715-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 90715, Acrylic Mass: Thickness: 1.5mm; Color: Clear, Blue</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">90715-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">90730-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 90730, Acrylic Mass: Thickness: 3.0mm; Color: Blue</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">90730-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9106SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9106, Acrylic Foam: Thickness:0.6mm; Color: Anthracite</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9106SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9108SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9108SPT, Acrylic Foam: Thickness:0.8mm; Color: Anthracite</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9108SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9210SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9210, Acrylic Foam: Thickness:1.0mm; Color: Anthracite</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9210SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">92730-12.7-20-WHT</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 92730SPS rolls 12.7mm x 20m; Adhesive: Acrylic Foam; Thickness: 3.0; Color: White; Liner: Poly-film; 19 rolls/case; 380 meters/case; 1247 feet/case</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">92730</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">WHT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9611SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9611, Acrylic Foam: Thickness:1.1mm; Color: Anthracite</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9611SPT-PECOM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9904DST-25-33-GRY</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9904 SPT 25mm x 33m DST, Acrylic Foam Adhesive; Modified Acrylic; Thickness: .5 mm Color: Grey; Liner/Color: Poly Film, Green;  9 rolls/case; MOQ: 27 rolls &#13;&#10; &#13;&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9904DST</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">GRY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9911SPT-PECOM</Data></Cell>
+    <Cell><Data ss:Type="String">Coroplast 9911, Acrylic Foam: Thickness:1.2mm; Color: Anthracite</Data></Cell>
+    <Cell><Data ss:Type="String">VEN009</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">9911SPT-PECOM</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Zoom>126</Zoom>
+   <Selected/>
+   <TopRowVisible>48</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>62</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
