@@ -595,5 +595,11 @@ INNER JOIN products p ON cp.FK_Eurotech_PN = p.Eurotech_PN
 INNER JOIN customers c ON cp.FK_Customer_ID = c.Customer_ID
 LEFT JOIN vendors v ON ppap.FK_Vendor_ID = v.Vendor_ID
 LEFT JOIN customer_ppap_number cpn ON ppap.PPAP_Number LIKE CONCAT('%', cpn.Customer_PPAP_Number, '%')
-WHERE PPAP_Number = 'PP00024-0002' AND (PPAP_Sent_Customer >= '2024-12-15' OR PPAP_Signed_Date >= '2024-12-15' OR PPAP_Request_Date >= '2025-10-15')
+HAVING PPAP_Number = 'PP00024-0002' 
+		AND `Customer` = 'Lear EU' 
+		AND Customer_PN = 'E2624100'
+		AND Eurotech_PN = 'P000042'
+		AND (PPAP_Sent_Customer >= '2024-12-15' 
+						OR PPAP_Signed_Date >= '2024-12-15' 
+						OR PPAP_Request_Date >= '2025-10-15')
 ORDER BY PPAP_Request_Date desc;
