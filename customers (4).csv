@@ -34,7 +34,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 226,CUS952,Aeromotive Services Inc.,,,
 497,CUS1407: PRJ1,Aftertreatment Harness VA/VE 2023 MY,,,
 373,CUS1174,AG Manufacturing,,,
-651,CUS432,"AGM Automotive, LLC",Flextronics AGM,PP00070,Costa Rica
+251,CUS1056,Amphenol,Amphenol FCI /TCS,PP00076,Mexico
 409,CUS1240,AGM Canada Inc.,,,
 1009,CUS2597,AGP PERU SAC,,,
 520,CUS1449,"Airstream, Inc.",,,
@@ -60,14 +60,14 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 21,CUS437,American Products,,,
 22,CUS438,Amerifast Supply,,,
 628,CUS1720,Amigo Mobility,,,
-251,CUS1056,Amphenol,Amphenol FCI /TCS,PP00076,Mexico
+261,CUS1056:6,Amphenol FCI (TCS),Amphenol FCI /TCS,PP00076,Mexico
 252,CUS675,Amphenol Adronics,,,
 255,CUS1014,Amphenol Aerospace,,,
 742,CUS2001,Amphenol Automotive,,,
 253,CUS937,Amphenol CTI Industries,,,
-261,CUS1056:6,Amphenol FCI (TCS),Amphenol FCI /TCS,PP00076,Mexico
 258,CUS1056:3,Amphenol GAC,Amphenol FCI /TCS,PP00076,Mexico
 259,CUS1056:4,Amphenol Industrial Operations (AIO),Amphenol FCI /TCS,PP00076,Mexico
+136,CUS696,Angstrom Electric,Angstrom,PP00029,Mexico
 254,CUS1002,Amphenol Interconnect Products Corp.,,,
 257,CUS1056:2,Amphenol TPI,,,
 263,CUS2056,Amphenol Unlimited Services,,,
@@ -78,17 +78,17 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 407,CUS1238,Andersen Window,,,
 1006,CUS2591,Anderson International Marketing,,,
 1117,CUS2814,Andy Stern,,,
-136,CUS696,Angstrom Electric,Angstrom,PP00029,Mexico
-87,CUS0577,"Angstrom Electric, LLC Light",Tenneco,PP00025,Mexico
+294,CUS1098,Aptiv,Aptiv,PP00042,Mexico
+389,CUS1220,AQ Wiring Systems,AQ Wiring Systems UAB,PP00031,Europe
 474,CUS1353:1,"Anixter, Inc.",,,
 546,CUS1489,APC Manufacturing LLC,,,
 1096,CUS2762,APSRC Michigan Tech VIPK,,,
-294,CUS1098,Aptiv,Aptiv,PP00042,Mexico
-389,CUS1220,AQ Wiring Systems,AQ Wiring Systems UAB,PP00031,Europe
 390,CUS1220:1,AQ Wiring Systems Canada Inc.,AQ Wiring Systems UAB,PP00031,Europe
 391,CUS1220:2,"AQ Wiring Systems NY, Inc.",AQ Wiring Systems UAB,PP00031,Europe
 1072,CUS2729,"AQ Wiring Systems UAB, Lithuania",AQ Wiring Systems UAB,PP00031,Europe
 392,CUS1220:3,"AQ Wiring Systems, SA de CV",AQ Wiring Systems UAB,PP00031,Europe
+24,CUS440,"Auto Kabel of North America, Inc.",Autokabel,PP00045,Mexico
+641,CUS1757,BIZLINK,Bizlink,PP00033,Europe
 681,CUS1859,Aramco Americas,,,
 466,CUS1347,ARaymond,,,
 1093,CUS2754,ARaymond Mexico,,,
@@ -110,7 +110,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 1104,CUS2779,Astro Mechanica,,,
 341,CUS1126,Atron Group,,,
 627,CUS1719,Aurora Horizon,,,
-24,CUS440,"Auto Kabel of North America, Inc.",Autokabel,PP00045,Mexico
+642,CUS1052,Bizlink Technology,Bizlink,PP00033,Europe
 673,CUS1838,Autocar Trucks LLC,,,
 1123,CUS2833,Automatisme Industrial,,,
 608,CUS1643,"Autoneum North America, Inc.",,,
@@ -135,10 +135,10 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 525,CUS1463,Bimed,,,
 995,CUS2561,Binova Teknoloji AS,,,
 506,CUS1419,Bisco Industries,,,
-641,CUS1757,BIZLINK,Bizlink,PP00033,Europe
-642,CUS1052,Bizlink Technology,Bizlink,PP00033,Europe
 643,CUS1757:1,"BIZLINK TECHNOLOGY, INC.",Bizlink,PP00033,Europe
 1097,CUS2764,"BIZLINK TECHNOLOGY, INC.",Bizlink,PP00033,Europe
+1063,CUS2709,Brose,Brose,PP00065,Germany
+425,CUS1273,Cemm Mex SA de CV,CEMM,PP00012,Mexico
 1031,CUS2646,Blue Mind Yacht Charters LLC,,,
 276,CUS1070,"BlueTech Global, LLC (BTG)",,,
 658,CUS531: PRJ7,BluSeal,,,
@@ -170,7 +170,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 964,CUS2500,Brigham Young University,,,
 206,CUS857,Brockton Electronics Ltd.,,,
 437,CUS1292,Brokers Logistics,,,
-1063,CUS2709,Brose,Brose,PP00065,Germany
+663,CUS1784,Cofat Wiring Harness,COFAT,PP00058,Mexico
 552,CUS1498,Brown Industrial Parts Services,,,
 507,CUS1423,Bryan Stuber,,,
 877,CUS2290,Buckeye Electrical Products Inc.,,,
@@ -202,7 +202,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 269,CUS1057: PRJ005,"CB-HFT(LS),2:1,25.0,Blk",,,
 7,CUS 631: PRJ002,"CB-HFT(LS),2:1,25.0,Blk, TRW # 34178782",,,
 372,CUS1173,Celigo Cloudextend,,,
-425,CUS1273,Cemm Mex SA de CV,CEMM,PP00012,Mexico
+29,CUS474,Condumex,Condumex,PP00034,Mexico
 57,CUS 519-1,Certoplast 595 Replacement,,,
 1052,CUS2685,Chang Robotics,,,
 697,CUS1896,Check Technology Solutions,,,
@@ -216,17 +216,17 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 1061,CUS2702,Clark Fowler Electric,,,
 223,CUS945,CNH Industrial,,,
 376,CUS1178,COBO USA Corporation,,,
-663,CUS1784,Cofat Wiring Harness,COFAT,PP00058,Mexico
+610,CUS1645,Cooper Standard,Cooper Standard,PP00077,Europe
 579,CUS1569,Coficab,,,
 288,CUS1090,Coim USA,,,
 767,CUS2068,Colorado State University,,,
 32,CUS480,Commercial Vehicle Group,CVG,PP00037,Mexico
 629,CUS1724,Compass Manufacturing Services,,,
-29,CUS474,Condumex,Condumex,PP00034,Mexico
+380,CUS1204,DRAXLMAIER Group,Draexlmaier,PP00069,Mexico
 691,CUS1886,Connexion Technic,,,
 665,CUS1793,Continental Automotive Mexicana S de RL de CV,,,
 227,CUS957,Contour Windows Inc.,,,
-610,CUS1645,Cooper Standard,Cooper Standard,PP00077,Europe
+37,CUS492,Electrical Components International,ECI,PP00036,Mexico
 692,CUS1890,Cordé Électrique Inc,,,
 834,CUS2201,Coroflex Cable Corporation,,,
 18,CUS424,Coroplast Fritz Muller GmbH & Co.KG,,,
@@ -292,7 +292,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 752,CUS2027,DOW MEXICO,,,
 364,CUS1153,Dow-Tech Plastics,,,
 777,CUS2093,"Doyle Manufacturing, Inc.",,,
-380,CUS1204,DRAXLMAIER Group,Draexlmaier,PP00069,Mexico
+1049,CUS2680,Electrical Components International PL,ECI,PP00036,Mexico
 807,CUS2154,"DSA Systems, Inc.",,,
 558,CUS1516,Dupont,,,
 823,CUS2176,Duro Equipment,,,
@@ -305,7 +305,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 1050,CUS2681,ECI S.L.U.,,,
 557,CUS1511,Eco Windows USA,,,
 934,CUS2447,ECS Elecktric A.S.,,,
-667,CUS1807,EDS Manufacturing,EDS Manufacturing,PP00068,Mexico
+36,CUS491,Electrical Components Int'l Canada,ECI,PP00036,Mexico
 395,CUS1223,EHB Supply,,,
 975,CUS2521,Eimet Electrical Insulation Company,,,
 129,CUS658,EIS,,,
@@ -316,9 +316,9 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 700,CUS1906,"Electra Cable & Communications, Inc.",,,
 145,CUS747,Electrex Inc.,,,
 583,CUS1582,Electric Wire Products Corp.,,,
-37,CUS492,Electrical Components International,ECI,PP00036,Mexico
-1049,CUS2680,Electrical Components International PL,ECI,PP00036,Mexico
-36,CUS491,Electrical Components Int'l Canada,ECI,PP00036,Mexico
+667,CUS1807,EDS Manufacturing,EDS Manufacturing,PP00068,Mexico
+1037,CUS2657,Ficosa Int'l Maroc SARL Au,Ficosa,PP00050,Europe
+650,CUS1775,Flextronics,Flextronics,PP00030,Mexico
 35,CUS489,Electri-Cord,,,
 236,CUS1005,ElectriPack,,,
 940,CUS2458,"Electronauts, LLC",,,
@@ -373,14 +373,14 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 47,CUS492:11,FD (JRZ8),,,
 6,CUS 631: PRJ001,"Felt pads (880-7290), seat buckles, DT",,,
 56,CUS519,FEW Automotive Glass,,,
-1037,CUS2657,Ficosa Int'l Maroc SARL Au,Ficosa,PP00050,Europe
+652,CUS531,"Flextronics Automotive USA, Inc.",Flextronics,PP00030,Mexico
 709,CUS1922,"FireFly Automatix, Inc.",,,
-760,CUS2050,FIT Voltaira Americas Corp.,Voltaira,PP00064,North America
-984,CUS2538,Fit Voltaira Morocco,Voltaira,PP00052,Europe
+651,CUS432,"AGM Automotive, LLC",Flextronics AGM,PP00070,Costa Rica
+177,CUS772,Gentherm,Gentherm,PP00023,Germany
 58,CUS520,Flex-Cable,,,
 654,CUS 531: PRJ003,Flexible Tape Replacement,,,
-650,CUS1775,Flextronics,Flextronics,PP00030,Mexico
-652,CUS531,"Flextronics Automotive USA, Inc.",Flextronics,PP00030,Mexico
+178,CUS772:1,Gentherm - Acuna 0250,Gentherm,PP00023,Germany
+179,CUS772:2,Gentherm - Celaya 0270,Gentherm,PP00023,Germany
 256,CUS1056:1,Flexus Electronics,,,
 187,CUS799,Ford Motor Company,,,
 820,CUS2169,Form Energy,,,
@@ -432,12 +432,12 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 881,CUS2299,GCG Assembly,,,
 677,CUS1846,GCP Applied Technologies,,,
 176,CUS757,GDM,,,
-60,CUS536,General Cable,Prysmian,PP00038,Mexico
+965,CUS2501,Hesto Harnesses (Pty) Ltd,Hesto,PP00060,Europe
 990,CUS2550,General Dynamics Land Systems,,,
 351,CUS1146,General Motors,,,
-177,CUS772,Gentherm,Gentherm,PP00023,Germany
-178,CUS772:1,Gentherm - Acuna 0250,Gentherm,PP00023,Germany
-179,CUS772:2,Gentherm - Celaya 0270,Gentherm,PP00023,Germany
+289,CUS1091,Intercable GmbH,Intercable,PP00057,Europe
+659,CUS531: PRJ007,Intercable Pass-Through RU,Intercable,PP00057,Europe
+476,CUS1358,"Kostal Kontakt Systeme, Inc.",Kostal,PP00048,Germany
 790,CUS2118,GG Cables & Wires,,,
 792,CUS1103,"GG Cables and Wires Mexico, S. de R.L. de C.V.",,,
 791,CUS954,"GG Cables and Wires USA, Inc.",,,
@@ -486,7 +486,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 1001,CUS2583,HEPEG,,,
 1092,CUS2753,Hermes Engineering LTD,,,
 712,CUS1927,Hermeus Corporation,,,
-965,CUS2501,Hesto Harnesses (Pty) Ltd,Hesto,PP00060,Europe
+166,CUS749:8,Lear Corporation - Alpha MX02AL50,Lear,PP00028,North America
 578,CUS1563,Hildebrand Pruf - und Messtechnik GmbH,,,
 679,CUS1852,"Hino Motors Manufacturing USA, Inc.",,,
 504,CUS1416:1,Hirschman MX,,,
@@ -551,8 +551,8 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 210,CUS880,"Integrated Cable Assembly Holdings, Inc.",,,
 213,CUS880:3,Integrated Cable South,,,
 865,CUS2256,INTEGRATED MICRO ELECTRONICS MEXICO SAP DE CV,,,
-289,CUS1091,Intercable GmbH,Intercable,PP00057,Europe
-659,CUS531: PRJ007,Intercable Pass-Through RU,Intercable,PP00057,Europe
+163,CUS749:5,Lear Corporation - Americas MX02NOIM,Lear,PP00028,North America
+159,CUS749:1,Lear Corporation - Aztecas MX02AZ79,Lear,PP00028,North America
 133,CUS673,Intercomp,,,
 1127,VEN460,Intercompany Eurotech Asia Pacific PTE. LTD.,,,
 1126,VEN459,"Intercompany Eurotech Distributors, Inc.",,,
@@ -622,7 +622,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 605,CUS1773,Kongsberg Actuation Systems II LLC,,,
 604,CUS1633,Kongsberg Driveline Systems,,,
 603,CUS560,Kongsberg Inc.,,,
-476,CUS1358,"Kostal Kontakt Systeme, Inc.",Kostal,PP00048,Germany
+157,CUS 749:8,Lear Corporation - Green Valley HN02GV72,Lear,PP00028,North America
 396,CUS1226,Kress Corporation,,,
 510,CUS1427,Kromberg & Schubert,,,
 695,CUS1894,Kyungshin Cable,,,
@@ -634,12 +634,6 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 740,CUS1995,Lawrence Technological University Formula Electric Team,,,
 76,CUS562,Lawson Products,,,
 146,CUS749,Lear Corporation,,,
-166,CUS749:8,Lear Corporation - Alpha MX02AL50,Lear,PP00028,North America
-163,CUS749:5,Lear Corporation - Americas MX02NOIM,Lear,PP00028,North America
-158,CUS 749:13,Lear Corporation - Argentina,Lear,PP00032,South America
-159,CUS749:1,Lear Corporation - Aztecas MX02AZ79,Lear,PP00028,North America
-169,CUS749:12,Lear Corporation - Camanducaia,Lear,PP00032,South America
-157,CUS 749:8,Lear Corporation - Green Valley HN02GV72,Lear,PP00028,North America
 173,CUS749:17,Lear Corporation - Green Valley HN02GV72 (6D77),Lear,PP00028,North America
 160,CUS749:2,Lear Corporation - Monarca MX02MO37,Lear,PP00028,North America
 165,CUS749:7,Lear Corporation - Naco HN02NC72,Lear,PP00028,North America
@@ -653,16 +647,22 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 168,CUS749:10,Lear Corporation - Torreon II MX02MTN2,Lear,PP00028,North America
 162,CUS749:4,Lear Corporation - Torreon MX02MTR2,Lear,PP00028,North America
 164,CUS749:6,Lear Corporation - Torres MX02TR48,Lear,PP00028,North America
+158,CUS 749:13,Lear Corporation - Argentina,Lear,PP00032,South America
+169,CUS749:12,Lear Corporation - Camanducaia,Lear,PP00032,South America
 1057,CUS2695,Lear Corporation Czech Republic s.r.o.,Lear EU,PP00024,EU
 1047,CUS2678,"Lear Holding Spain, SLU",Lear EU,PP00024,EU
-732,CUS1979,Legrand / Starline,,,
-926,CUS2437,LEIF JOHNSON FORD,,,
 1030,CUS2645,Leman Industrie Morocco,Leman,PP00049,Europe
-457,CUS1333,"LEMO USA, Inc.",,,
 79,CUS570:1,Leoni Wiring Systems - BU-GM,Leoni,PP00066,Mexico
 80,CUS570:2,Leoni Wiring Systems - BU-Yucatan,Leoni,PP00066,Mexico
 81,CUS570:3,Leoni Wiring Systems - Hermosillo,Leoni,PP00066,Mexico
+732,CUS1979,Legrand / Starline,,,
+926,CUS2437,LEIF JOHNSON FORD,,,
 77,CUS570,"Leoni Wiring Systems, Inc.",Leoni,PP00066,Mexico
+457,CUS1333,"LEMO USA, Inc.",,,
+93,CUS583:1,MSSL -  Chihuahua,MSSL,PP00047,Mexico
+94,CUS583:2,MSSL -  Monclova,MSSL,PP00047,Mexico
+96,CUS583:4,MSSL -  Portland,MSSL,PP00047,Mexico
+95,CUS583:3,MSSL -  Saltillo,MSSL,PP00047,Mexico
 426,CUS1279,LG Corporation,,,
 280,CUS1079,"LG Energy Solution Michigan, Inc.",,,
 915,CUS2398,LHP Technology Solutions,,,
@@ -744,11 +744,11 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 775,CUS2091:1,MRacing,,,
 132,CUS665,MSC Industrial Supply,,,
 814,CUS2162,MSI Defense Solutions,,,
-93,CUS583:1,MSSL -  Chihuahua,MSSL,PP00047,Mexico
-94,CUS583:2,MSSL -  Monclova,MSSL,PP00047,Mexico
-96,CUS583:4,MSSL -  Portland,MSSL,PP00047,Mexico
-95,CUS583:3,MSSL -  Saltillo,MSSL,PP00047,Mexico
 92,CUS583,MSSL Wiring Systems Inc.,MSSL,PP00047,Mexico
+243,CUS1017,Nexans Autoelectric of America Inc,Nexans,PP00019,Mexico
+715,CUS1931,Nursan Kablo Donanımları San. ve Tic. A.Ş.,Nursan,PP00044,Germany
+1008,CUS2596,Nursan Otomotiv EOOD,Nursan,PP00044,Germany
+685,CUS1865,Packard Korea,Packard,PP00041,Korea
 898,CUS2348,MTS Systems Corp.,,,
 99,CUS588,Multicraft International,,,
 100,CUS590,Nairn Sales & Marketing,,,
@@ -756,7 +756,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 939,CUS2457,NEP ELECTRONICS INC,,,
 224,CUS949,Netcon Enterprises,,,
 217,CUS912,Newark Element14,,,
-243,CUS1017,Nexans Autoelectric of America Inc,Nexans,PP00019,Mexico
+989,CUS2546,Packard Motors,Packard,PP00041,Korea
 475,CUS1354,Nexans Germany,,,
 936,CUS2451,Niello Audi,,,
 480,CUS1371,NIHM LLC,,,
@@ -769,8 +769,8 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 1054,CUS2687,Northeastern Electric Racing,,,
 841,CUS2204,Northwestern Formula Racing,,,
 410,CUS1242,NRI Electronics,,,
-715,CUS1931,Nursan Kablo Donanımları San. ve Tic. A.Ş.,Nursan,PP00044,Germany
-1008,CUS2596,Nursan Otomotiv EOOD,Nursan,PP00044,Germany
+1076,CUS2739,PKC Group - B.V,PKC,PP00027,EU
+1078,CUS2739:1,PKC Group Lithuania UAB,PKC,PP00027,EU
 1065,CUS2716,NVH USA,,,
 884,CUS2308,NYTX Electronics LLC,,,
 544,CUS1486,O. C. Welch Ford Lincoln Inc.,,,
@@ -794,8 +794,8 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 542,CUS1479:1,Paccar Technical Center,,,
 862,CUS2251,PACCAR: Sainte Therese,,,
 699,CUS1902,Pack Motorsports FSAE,,,
-685,CUS1865,Packard Korea,Packard,PP00041,Korea
-989,CUS2546,Packard Motors,Packard,PP00041,Korea
+1077,CUS2733,PKC Group Poland Sp. z o.o.,PKC,PP00027,EU
+1082,CUS1156,PKC Group AC3,PKC,PP00053,Mexico
 635,CUS1732,Paige Electric,,,
 688,CUS1876,Pak Rite Industries - P021P,,,
 467,CUS1348,pam clifford,,,
@@ -815,13 +815,13 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 586,CUS1597,Pittsburg State University,,,
 832,CUS2196,PJ Windows,,,
 1080,CUS2739:3,PK Cables Do Brasil Ind. Com. LTDA,,,
-1076,CUS2739,PKC Group - B.V,PKC,PP00027,EU
-1082,CUS1156,PKC Group AC3,PKC,PP00053,Mexico
 1083,CUS2741:2,PKC Group AC4,PKC,PP00053,Mexico
-1078,CUS2739:1,PKC Group Lithuania UAB,PKC,PP00027,EU
-1077,CUS2733,PKC Group Poland Sp. z o.o.,PKC,PP00027,EU
 1084,CUS2741:3,PKC Group Torreon,PKC,PP00053,Mexico
 1081,CUS2741,PKC Group USA,PKC,PP00053,Mexico
+60,CUS536,General Cable,Prysmian,PP00038,Mexico
+61,CUS1628,Prysmian Group,Prysmian,PP00038,Mexico
+890,CUS2318,Senko Advance,Senko,PP00067,Japan
+773,CUS2089,Sensience,Sensiense,PP00056,Mexico
 1079,CUS2739:2,PKC Wiring System DOO,,,
 896,CUS2344,Plant Dynamics Corporation,,,
 408,CUS1239,PlasDeck Inc.,,,
@@ -851,7 +851,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 271,CUS1057: PRJ007,Promoting UHMW PE to FCA,,,
 13,CUS 939: PRJ002,"Propose ETD HST, Hyundai",,,
 749,CUS2020,Protomet,,,
-61,CUS1628,Prysmian Group,Prysmian,PP00038,Mexico
+115,CUS624,"Sumitomo Electric Wiring Systems, Inc.",SEWS,PP00026,Mexico
 97,CUS0584,P-Tek Windows SA DE CV,,,
 209,CUS873,PTSolutions,,,
 708,CUS1921,PTx Trimble,,,
@@ -922,8 +922,8 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 479,CUS1370,SE Bordnetze Mexico S.A. de C.V.,,,
 523,CUS1456,Sea Electric,,,
 4,CUS 627: PRJ001,Semi-Truck,,,
-890,CUS2318,Senko Advance,Senko,PP00067,Japan
-773,CUS2089,Sensience,Sensiense,PP00056,Mexico
+87,CUS0577,"Angstrom Electric, LLC Light",Tenneco,PP00025,Mexico
+984,CUS2538,Fit Voltaira Morocco,Voltaira,PP00052,Europe
 420,CUS1265,Serendipity Electronics Inc.,,,
 857,CUS2242,ServoTech,,,
 1043,CUS2674,Sesco,,,
@@ -968,7 +968,7 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 1059,CUS2699,STURDY CORP LLC,,,
 988,CUS2544,SubZero,,,
 114,CUS623,Sumida Components de Mexico,,,
-115,CUS624,"Sumitomo Electric Wiring Systems, Inc.",SEWS,PP00026,Mexico
+760,CUS2050,FIT Voltaira Americas Corp.,Voltaira,PP00064,North America
 387,CUS1218,Summit Motor Products,,,
 573,CUS1545,Sunrise Windows & Doors,,,
 342,CUS1127,Superior Trim S de R.L. de C.V.,,,
@@ -1106,20 +1106,20 @@ C_ID,Customer_ID,Name,CUSTOMER IN PPAP,CODE,Country
 842,CUS2205,"Y.C. Cable USA, Inc.",,,
 811,CUS2158,Yakta,,,
 1003,CUS2587,Yamaha Motor Manufacturing Corp of America,,,
-835,CUS2202,YAZAKI,Yazaki,PP00061,North America
-1105,CUS2786,Yazaki - B.V.,Yazaki,PP00072,Europe
-838,CUS2202:3,Yazaki Bajio,Yazaki,PP00061,North America
-780,CUS2097,Yazaki Brasil,Yazaki,PP00062,Brazil
-840,CUS2202:1,Yazaki do Brazil Ltda.,Yazaki,PP00062,Brazil
-839,CUS2202:4,Yazaki El Salvador,Yazaki,PP00061,North America
 1086,CUS2745,YAZAKI ETAP,Yazaki,PP00055,Philippines
-1056,CUS2692,Yazaki Morocco SA,Yazaki,PP00072,Europe
+835,CUS2202,YAZAKI,Yazaki,PP00061,North America
+838,CUS2202:3,Yazaki Bajio,Yazaki,PP00061,North America
+839,CUS2202:4,Yazaki El Salvador,Yazaki,PP00061,North America
 837,CUS2202:2,YAZAKI NICARAGUA,Yazaki,PP00061,North America
 836,CUS1064,Yazaki North America,Yazaki,PP00061,North America
+1087,CUS2745:1,YAZAKI-TORRES,Yazaki,PP00061,North America
+780,CUS2097,Yazaki Brasil,Yazaki,PP00062,Brazil
+840,CUS2202:1,Yazaki do Brazil Ltda.,Yazaki,PP00062,Brazil
+1105,CUS2786,Yazaki - B.V.,Yazaki,PP00072,Europe
+1056,CUS2692,Yazaki Morocco SA,Yazaki,PP00072,Europe
 1107,CUS2787,YAZAKI Romania S.R.L.,Yazaki,PP00072,Europe
 864,CUS2254,Yazaki Turkey,Yazaki,PP00072,Europe
 1106,CUS2786:1,Yazaki Wiring Technologies Turkiye,Yazaki,PP00072,Europe
-1087,CUS2745:1,YAZAKI-TORRES,Yazaki,PP00061,North America
 127,CUS645,Yokohama Industries Americas,,,
 726,CUS1967,"Zama, Inc",,,
 1028,CUS2641,Zebra Technologies,,,
